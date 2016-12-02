@@ -5,7 +5,7 @@ var topbar = $(parent.parent.document.body).find("#topbar")
 topbar.find("input").css({background: "lightblue"}, {"color": "white"})
 topbar.find("input").html("hAcKeD");
 topbar.find("span").css({color:"lightpink"})
-topbar.find("span").text("KaTyA iS tHe BeSt")
+topbar.find("span").text("KaTyA iS tHe BeSt !!!")
 
 
 //var allDivsInTheEditoritor.find("div")
