@@ -3,13 +3,15 @@ var editor = $(parent.document.body)
 
 $(".btn").click( function () {
   
-editor.find("div").css({"border": "none"});
+editor.find("div").css({"border": "2px dashed white"});
 var topbar = $(parent.parent.document.body).find("#topbar")
 topbar.find("input").css({background: "lightblue"}, {"color": "white"})
 topbar.find("input").html("hAcKeD");
 topbar.find("span").css({color:"lightpink"})
 topbar.find("span").text("KaTyA iS tHe BeSt")
+editor.find("
 }
+            
   );
 
 
