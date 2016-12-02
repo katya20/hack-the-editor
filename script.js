@@ -6,6 +6,7 @@ topbar.find("input").css({background: "lightblue"}, {"color": "white"})
 topbar.find("input").html("hAcKeD");
 topbar.find("span").css({color:"lightpink"})
 topbar.find("span").text("KaTyA iS tHe BeSt !!!")
+editor.find("ins").text("i'M bAcK")
 
 
 //var allDivsInTheEditoritor.find("div")
