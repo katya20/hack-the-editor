@@ -1,9 +1,9 @@
 var editor = $(parent.document.body)
 
-editor.find("div").css({"border-right": "k"});
+editor.find("div").css({"border": "none"});
 var topbar = $(parent.parent.document.body).find("#topbar")
-topbar.find("div").css({background: "lightblue"})
-top
+topbar.find("button").css({background: "white"})
+
 //var allDivsInTheEditoritor.find("div")
 
 
